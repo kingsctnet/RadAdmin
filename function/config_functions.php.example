@@ -1,0 +1,13 @@
+<?php
+//Define
+define('APPNAME','RAD Manager');
+define('SCHOOL_NAME','MY SCHOOL');
+define('ACTIVE_CODE', 'RATCHAKORN');
+
+//MySQL/MariaDB Information
+define('HOST_URL', "localhost");
+define('HOST_USER', "radius");
+define('HOST_PASSWORD', "radpass");
+define('HOST_DB', "radius");
+
+?>
